@@ -1,0 +1,237 @@
+/*#resume{
+  color : #003049
+  border:10px solid red;
+}
+#home{
+  color:#14213d
+
+}
+*/
+h2{
+  color:#db504a;
+}
+h3{
+  color:black;
+  font-family:  cursive;
+}
+
+.careerobjective{
+  color:black;
+  width: 650px;
+
+}
+.education{
+  color:black;
+  width: 550px;
+
+}
+.technicalskills{
+  color:black;
+  width:450px;
+
+}
+body{
+  position:absolute;
+ background-color:white;
+ box-sizing: border-box;
+ padding: 1%
+}
+.spacing{
+  padding-left:3%;
+}
+.projects{
+  color:black;
+  width: 500px;
+
+}
+.internships{
+  color:black;
+  width:550px;
+
+}
+/*.education{
+  color:black;
+  width: 500px;
+    grid-area: menu;
+}*/
+.me{
+  color:black;
+}
+.positive{
+  color:black;
+  width: 500px;
+}
+
+.first:hover p4{
+  display:block;
+  color: red;
+}
+.well{
+    color : #003049;
+    border-color:#253237;
+    border-style: double;
+}
+
+span{
+  display:inline; /* the default for span */
+    padding: 5px;
+    font-family: cursive;
+    background-color: #f2f6d0;
+    text-align: center;
+}
+
+.career{
+  background-color: #bfbfbf;
+    padding:0.5%;
+    border-radius: 25px;
+    border-color:#253237;
+    border-style: groove;
+    margin:10px;
+}
+.edu{
+  background-color: #b1cf5f;
+  border-radius: 25px;
+    padding:0.5%;
+    border-color:#253237;
+    border-style: groove;
+    margin:10px;
+  }
+  .intern{
+    width:625px;
+    background-color: #b4d2e7;
+      padding:0.5%;
+      border-radius: 25px;
+      border-color:#253237;
+      border-style: groove;
+      margin:10px;
+  }
+  .about{
+      background-color:#ddbea8;
+        padding:0.5%;
+        border-radius: 25px;
+        border-color:#253237;
+        border-style: groove;
+        margin:10px;
+        width:550px;
+  }
+  .strengths{
+    background-color: #f3dfa2;
+    padding:0.5%;
+    border-radius: 25px;
+    border-color:#253237;
+    border-style: groove;
+    margin:10px;
+  }
+
+.tech{
+    background-color: #b5b682;
+    padding:0.5%;
+    border-radius: 25px;
+    border-color:#253237;
+    border-style: groove;
+    margin:10px;
+  }
+
+  .pro{
+    background-color: #f7b267;
+    padding:0.5%;
+    border-radius: 25px;
+    border-color:#253237;
+    border-style: groove;
+    margin:10px;
+}
+
+
+p4{
+  display:none;
+}
+.html:hover p4{
+  display:block;
+width:300px
+}
+
+.css:hover p4{
+  display:block;
+width:300px
+}
+.python:hover p4{
+  display:block;
+width:300px
+}
+.sql:hover p4{
+  display:block;
+width:300px
+}
+.soa:hover p4{
+  display:block;
+width:300px
+}
+.python:hover p4{
+  display:block;
+width:300px
+}
+.oic:hover p4{
+  display:block;
+width:300px
+}
+.cloud:hover p4{
+  display:block;
+width:300px
+}
+.spark:hover p4{
+  display:block;
+width:300px
+}
+.softwares:hover p4{
+  display:block;
+width:300px;
+}
+
+
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.feed{
+      padding:3%;
+  }
+
+
+
+
+  .well:hover {
+            border: 5px solid blue;
+            overflow: hidden;
+        }
+.pro:hover {
+                  border: 5px solid red;
+                  overflow: hidden;
+              }
+
+.about:hover {
+          border: 5px solid red;
+          overflow: hidden;
+      }
+
+.strengths:hover {
+                      border: 5px solid red;
+                      overflow: hidden;
+}
+.intern:hover {
+                border:5px solid red;
+                overflow: hidden;
+}
+.tech:hover{
+  border: 5px solid red;
+  overflow: hidden;
+}
+.edu:hover{
+  border: 5px solid red;
+  overflow: hidden;
+}
+.career:hover{
+  border: 5px solid red;
+  overflow: hidden;
+}
